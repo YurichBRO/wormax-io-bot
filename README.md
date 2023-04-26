@@ -1,5 +1,5 @@
 ## The principle
-All this bot is taking screenshots of your screen and searching bright pixels.
+All this does bot is taking screenshots of your screen and searching bright pixels.
 If you run *wormax.io* you can see, that all the edible dots are bright enough
 to be white in case the image is black and white. So, bot searches for white
 pixels on the image. If it sees one or more, it takes the distance to all of
