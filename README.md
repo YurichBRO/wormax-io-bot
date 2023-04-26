@@ -7,7 +7,7 @@ these pixels from the center, chooses the closest one and moves your mouse
 on it.
 
 You would also see that many of player skins are bright and can cause
-mistakes. And that's the problem we can not forget. To avoid it see *Usage*
+mistakes. And that's the problem we can not ignore. To avoid it see *Usage*
 ## Efficiency
 The process of taking screenshots multiple times a second is not very
 efficient. To avoid wasting processor time you can limit the bot fps
